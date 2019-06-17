@@ -1,2 +1,3 @@
 # hello-world
-Following the guide
+Following the guide  
+a bit about yourself
